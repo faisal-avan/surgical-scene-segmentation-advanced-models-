@@ -1,7 +1,5 @@
 # Surgical Scene Segmentation in Robotic Gastrectomy Dataset
 
-This repository contains the dataset and related resources for the MICCAI 2022 paper "Surgical Scene Segmentation in Robotic Gastrectomy" [1].
-
 ## Overview
 
 The dataset combines real and synthetic data for surgical scene segmentation in robotic gastrectomy procedures. It includes:
